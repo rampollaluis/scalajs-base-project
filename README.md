@@ -22,3 +22,5 @@ If you are not using any other framework like React or Angular, you can simply o
 [Tutorial I used](https://www.scala-js.org/doc/tutorial/basic/) to setup
 
 [Other tutorials](https://www.scala-js.org/doc/tutorial/) by the official Scalajs site
+
+[Scalatags tutorial](http://www.lihaoyi.com/scalatags/#ScalaTags) (very useful)
