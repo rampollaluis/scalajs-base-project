@@ -1,0 +1,22 @@
+# Scala
+*.class
+*.log
+
+# sbt
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+
+# node modules
+node_modules/
+
+# IntelliJ
+.idea/**/libraries
+.idea/**/workspace.xml
+.idea/**/modules
