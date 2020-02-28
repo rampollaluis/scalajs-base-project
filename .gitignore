@@ -17,10 +17,12 @@ project/plugins/project/
 node_modules/
 
 # IntelliJ
-.idea/**/libraries
-.idea/**/workspace.xml
-.idea/**/modules
 node_modules/
 .idea/**/libraries
-.idea/**/workspace.xml
-.idea/**/modules
+.idea/modules
+.idea/workspace.xml
+*/target
+.DS_Store
+*/.DS_Store
+*/.history
+target
