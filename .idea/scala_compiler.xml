@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="scalajsproject_1101" />
+    <profile name="sbt 2" modules="ScalajsProject">
+      <plugins>
+        <plugin path="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-compiler_2.12.7/0.6.32/scalajs-compiler_2.12.7-0.6.32.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>

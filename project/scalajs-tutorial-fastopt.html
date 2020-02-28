@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>The Scala.js Tutorial</title>
+    </head>
+
+    <body>
+        <div id="main-section"></div>
+        <div id="sub-section"></div>
+
+        <!-- Include Scala.js compiled code -->
+        <script type="text/javascript" src="../target/scala-2.12/scalajsproject-fastopt.js"></script>
+
+        <script>
+            tutorial.webapp.TutorialApp0().main(document.getElementById('main-section'));
+        </script>
+        <script>
+            tutorial.webapp.TutorialApp().main(document.getElementById('sub-section'));
+        </script>
+    </body>
+
+</html>
